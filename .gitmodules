@@ -1,0 +1,6 @@
+[submodule "PeerChat_submodule"]
+	path = PeerChat_submodule
+	url = https://github.com/aayyusssh/PeerChat_submodule.git
+[submodule "client"]
+	path = client
+	url = https://github.com/aayyusssh/PeerChat_submodule.git
